@@ -1,0 +1,14 @@
+.LoginSection {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+margin-top: 100px;
+  width: 50vw;
+  height: 50vh;
+  border-radius: 30px;
+  background-image: linear-gradient(
+   lightblue,rgb(219, 221, 107),rgb(43, 218, 43)
+  );
+  
+}
